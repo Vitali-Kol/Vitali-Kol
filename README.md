@@ -1,5 +1,5 @@
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub)
+![Banner](EschkereTrimed.png)
 
 # Привет, я Виталий! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
@@ -20,7 +20,6 @@
 > Если есть вопросы, идеи или предложения, обязательно пишите — я всегда рад новым знакомствам и коллаборациям.  
 
 
-<!-- Можно добавить какую-то забавную приписку или цитату в конце -->
 <p align="center">
   <i>"Все невозможное возможно, если не знаешь, что это невозможно."</i>
 </p>
